@@ -200,3 +200,6 @@ This repository serves as the official landing page for HellSlave II: Judgment o
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of HellSlave II today!**
+
+---
+**Last updated:** 2026-11-06 21:15:28 UTC
